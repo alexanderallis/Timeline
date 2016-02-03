@@ -43,6 +43,12 @@ aside {
     height:40px;
     margin-left:-25px;
     margin-top:-7px;
+
+  }
+
+  .icon_container_desktop{
+    margin-left:6px;
+    margin-top:7px;
   }
 
   i{
@@ -59,9 +65,9 @@ aside {
       border-radius:50%;
       background-color: 5DBBEA;*/
       z-index: 0;
-
-
   }
+
+
 
 .arrow-container{
     position: absolute;
@@ -90,7 +96,8 @@ aside {
 }
 
 section {
-  padding-left:4%;
+  /*padding-left:4%;*/
+  padding-left:60px;
   border-style:none;
   border-color:red;
   border-width:1px;
