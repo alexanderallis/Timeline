@@ -1,0 +1,41 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+section {
+  padding-left:2.5%;
+  border-left-style:solid;
+  border-left-color: 5DBBEA;
+  border-left-width: 10px;
+  padding-bottom:20px;
+}
+
+.blue-box {
+    padding:40px;
+    padding-bottom:60px;
+    border-color:red;
+    border-style:none;
+    border-width:thin;
+    border-radius:5px;
+    background-color:5DBBEA;
+    color:white;
+
+}
+
+h1 {
+    font-size: 2em;
+    font-weight:bold;
+    border-style:none;
+    border-bottom-style:solid;
+    border-width: thin;
+    padding-bottom: 15px;
+
+}
+
+p {
+    font-size: 1.2em;
+    font-weight:lighter;
+    border-style: none;
+    border-width: thin;
+    padding-top:20px;
+}
